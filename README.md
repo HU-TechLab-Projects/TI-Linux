@@ -6,7 +6,7 @@ Welkom op deze repo. Hier wordt alle informatie gebundeld die je al beginner kan
     - Kies voor "WPA & WPA2 Enterprise"
     - Authentication is "Protected EAP (PEAP)"
     - Anonymous Identity mag leeg blijven
-    - Certificate staat elders in de repo, deze kun je downloaden en hier naar verwijzen (het werkt ook zonder certificate, maar dat is minder veilig)
+    - Certificate staat [elders in de repo](https://github.com/HU-TechLab-Projects/TI-Linux/blob/master/DigiCert%20Assured%20ID%20Root%20CA.crt), deze kun je downloaden en hier naar verwijzen (het werkt ook zonder certificate, maar dat is minder veilig)
     - PEAP version mag "Automatic" blijven
     - Inner authentication is "MSCHAPv2"
     - Username is je HU-email
