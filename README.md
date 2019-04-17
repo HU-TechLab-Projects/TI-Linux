@@ -1,5 +1,8 @@
 Welkom op deze repo. Hier wordt alle informatie gebundeld die je al beginner kan gebruiken om binnen HBO-ICT (en specifiek gericht op TI) met Linux aan de slag kunt. Stel gerust vragen in de issues, of draag toevoegingen aan via een PR.
 
+## Linux gebruiken voor BMPTK/HWLIB (OOPC en verder)
+Wouter heeft hiervoor een [speciale repository](https://github.com/wovo/installers) ingericht. Volg de instructies in de README.
+
 ## FAQ
 - **Hoe maak ik verbinding met eduroam?**
   - Bij security heb je bij security de volgende instellingen nodig:
